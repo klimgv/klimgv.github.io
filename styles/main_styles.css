@@ -831,6 +831,9 @@ section
 .main_slider_content
 {
 	width: 60%;
+	background: rgba(235, 235, 235, 0.5);
+	padding: 15px;
+	border-radius: 20px;
 }
 .main_slider_content h6
 {
@@ -842,6 +845,7 @@ section
 {
 	font-weight: 400;
 	line-height: 1;
+	color: #fe4c50;
 }
 .red_button
 {
